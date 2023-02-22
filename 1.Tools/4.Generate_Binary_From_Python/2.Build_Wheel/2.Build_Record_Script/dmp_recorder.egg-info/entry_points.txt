@@ -1,0 +1,3 @@
+[console_scripts]
+dmp-recorder = Record_Video_Script.app:main
+

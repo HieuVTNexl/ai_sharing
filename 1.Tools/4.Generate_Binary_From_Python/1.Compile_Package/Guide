@@ -1,0 +1,10 @@
+# Method 1
+    ./Compile_Package.sh YOUR_DIR
+
+    Example:
+        ./Compile_Package.sh Record_Video_Script
+
+
+
+# Method 2
+    python compile_python_to_binary.py

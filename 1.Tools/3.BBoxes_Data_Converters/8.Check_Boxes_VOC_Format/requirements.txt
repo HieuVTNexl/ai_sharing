@@ -1,0 +1,8 @@
+image
+pillow
+lxml
+numpy
+opencv-python
+matplotlib
+natsort
+future

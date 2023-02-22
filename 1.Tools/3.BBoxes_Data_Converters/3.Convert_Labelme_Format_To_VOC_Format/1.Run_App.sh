@@ -1,0 +1,1 @@
+./labelme2voc.py /home/lkt/2.HDD/3.Task/35.NTT_Fire_Detection/8.Label_New_Dataset/Benchmark_Images /home/lkt/2.HDD/3.Task/35.NTT_Fire_Detection/8.Label_New_Dataset/Output_VOC --labels labels.txt

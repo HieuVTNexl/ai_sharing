@@ -1,0 +1,3 @@
+[console_scripts]
+dmp-player = Play_Video_Script.app:main
+

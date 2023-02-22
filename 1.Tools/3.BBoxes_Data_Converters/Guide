@@ -1,0 +1,16 @@
+1. Create dummy json file to reduce workload.
+    python 1.Create_Json_Dummy.py DATA_DIR
+
+2. Convert right top, left bottom boxes to left top,bottom right 
+    python 2.Convert_RT_LB_To_LT_RB.py Benchmark_Images
+
+3. Convert labelme format to VOC format, change labels.txt first.
+    python labelme2voc.py /home/lkt/2.HDD/1.Tools/tools/11.BBoxes_Data_Tools/Benchmark_Images /home/lkt/2.HDD/1.Tools/tools/11.BBoxes_Data_Tools/Output_VOC --labels labels.txt
+
+4.Convert_VOC_Format_To_COCO_Format
+
+5. Convert VOC to Yolo format.
+    python voc2coco.py --xml_dir /home/lkt/2.HDD/1.Tools/tools/11.BBoxes_Data_Tools/Output_VOC/Annotations --json_file Output_Json_COCO/coco_annotations.json
+
+6.Check_Bounding_Boxes_Yolo_Format
+    python app.py

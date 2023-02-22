@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+Record_Video_Script/__init__.py
+Record_Video_Script/utils/__init__.py
+dmp_recorder.egg-info/PKG-INFO
+dmp_recorder.egg-info/SOURCES.txt
+dmp_recorder.egg-info/dependency_links.txt
+dmp_recorder.egg-info/entry_points.txt
+dmp_recorder.egg-info/top_level.txt

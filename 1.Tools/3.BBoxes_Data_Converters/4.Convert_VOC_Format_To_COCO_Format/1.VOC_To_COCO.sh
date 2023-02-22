@@ -1,0 +1,1 @@
+python voc2coco.py /home/lkt/Desktop/Fire_Smoke_Dataset output/_annotations.json

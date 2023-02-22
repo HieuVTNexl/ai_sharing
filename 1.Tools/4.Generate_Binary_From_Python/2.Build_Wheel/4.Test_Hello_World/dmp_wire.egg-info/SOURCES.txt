@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.py
+dmp_wire.egg-info/PKG-INFO
+dmp_wire.egg-info/SOURCES.txt
+dmp_wire.egg-info/dependency_links.txt
+dmp_wire.egg-info/entry_points.txt
+dmp_wire.egg-info/top_level.txt

@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+Play_Video_Script/__init__.py
+dmp_player.egg-info/PKG-INFO
+dmp_player.egg-info/SOURCES.txt
+dmp_player.egg-info/dependency_links.txt
+dmp_player.egg-info/entry_points.txt
+dmp_player.egg-info/top_level.txt
